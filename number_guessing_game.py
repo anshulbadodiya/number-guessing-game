@@ -1,9 +1,3 @@
-# ================================================
-# Number Guessing Game
-# Author: Anshul Badodiya
-# Description: A command-line game where the player
-#              guesses a random number chosen by the computer.
-# ================================================
 
 import random
 

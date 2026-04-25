@@ -36,6 +36,4 @@ python number_guessing_game.py
 - random module
 - Basic game logic
 
-## Author
 
-Anshul Badodiya — B.Tech CSE, Medicaps University
